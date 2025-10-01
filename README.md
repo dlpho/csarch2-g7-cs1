@@ -21,25 +21,21 @@ The build pairs the CPU with an MSI GeForce RTX 5070 12 GB SHADOW 3X OC, offerin
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: https://pcpartpicker.com/list/JrpX8Q
+PCPartPicker Permalink: https://pcpartpicker.com/list/kz369C
 
 ### PCPartPicker Build Table TODO
 | Component       | Model                | Vendor     | Price (USD) | Notes                                  |
 |-----------------|----------------------|------------|-------------|----------------------------------------|
-| CPU             | AMD Ryzen 7 9800X3D  | B&H        | $469.00     | 8-core, AM5 socket                     |
-| CPU Cooler      | MSI MAG CORELIQUID   | Amazon     | $79.98      | 360mm AIO, fits ATX mid-tower          |
-| Motherboard     | MSI PRO B650-A WIFI  | Newegg     | $149.99     | ATX, AM5, DDR5 support                 |
-| Memory          | Corsair Vengeance    | Amazon     | $122.99     | 32 GB (2x16), DDR5-6000 CL36           |
-| Storage (SSD)   | MSI SPATIUM M480 PRO | MSI        | $64.99      | 1 TB, PCIe 4.0 NVMe                    |
+| CPU             | AMD Ryzen 7 9800X3D  | Amazon     | $476.99     | 8-core, AM5 socket                     |
+| CPU Cooler      | Deepcool AK400 DIGITAL| Amazon    | $49.99      | Air cooler, fits ATX mid-tower         |
+| Motherboard     | MSI PRO B650-A WIFI  | MSI        | $139.99     | ATX, AM5, DDR5 support                 |
+| Memory          | G.Skill Flare X5     | Amazon     | $99.00      | 32 GB (2x16), DDR5-6000 CL36           |
+| Storage (SSD)   | MSI SPATIUM M480 PRO | MSI        | $89.99      | 1 TB, PCIe 4.0 NVMe                    |
 | Storage (HDD)   | Seagate BarraCuda    | Amazon     | $55.59      | 1 TB, 7200 RPM                         |
-| Video Card      | MSI VENTUS 2X PLUS   | B&H        | $349.95     | RTX 5060 Ti, 8 GB GDDR7                |
+| Video Card      | MSI SHADOW 3X OC     | Amazon     | $549.00     | RTX 5070, 12 GB GDDR7                  |
 | Case            | MSI MAG FORGE 321R   | Newegg     | $84.99      | ATX Mid Tower, airflow design          |
 | Power Supply    | MSI MAG A750GL       | Amazon     | $96.00      | 750W, 80+ Gold, fully modular          |
-| Case Fan        | Noctua NF-A12x25 PWM | Amazon     | $37.95      | 120mm, high airflow                    |
-| Case Fan        | Noctua NF-A12x25 PWM | Amazon     | $37.95      | 120mm, high airflow                    |
-| **Total (before rebates)** |                     |            | **$1651.28** |                           |
-| Mail-in Rebates |                      |            | -$10.00     |                                        |
-| **Final Total** |                      |            | **$1641.28** |                                        |
+| **Final Total** |                      |            |**$1591.55** |                                        |
 
 
 ---
@@ -54,7 +50,7 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1jBNYJR_c-P8ae-f
 | CPU             | AMD Ryzen 7 9800X3D  | Datablitz  | ₱29,950.00  | Works with AM5 motherboards.                          |
 |                 |                      |            |             | Requires B650, X670, or newer chipset.                |
 |                 |                      |            |             | Best paired with DDR5 RAM.                            |
-| CPU Cooler      | MSI MAG CoreLiquid   | DataBlitz  | ₱2,195.00   | Fits case clearance.                                  |
+| CPU Cooler      | Deepcool AK400 DIGITAL| DataBlitz | ₱2,195.00  | Fits case clearance.                                   |
 | Motherboard     | MSI Pro B650M-A WIFI | Datablitz  | ₱9,450.00   | Supports AMD Ryzen 7 9800X3D with BIOS v7D75vA3.      |
 |                 |                      |            |             | Update may be required.                               |
 | RAM             | G.Skill Flare X5     | DynaQuestPC| ₱6,275.00   | DDR5-6000, 32GB (2 x 16 GB) CL36                      |
