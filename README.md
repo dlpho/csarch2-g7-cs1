@@ -54,20 +54,20 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1jBNYJR_c-P8ae-f
 | CPU             | AMD Ryzen 7 9800X3D  | Datablitz  | ₱29,950.00  | Works with AM5 motherboards.                          |
 |                 |                      |            |             | Requires B650, X670, or newer chipset.                |
 |                 |                      |            |             | Best paired with DDR5 RAM.                            |
-| CPU Cooler      | MSI MAG CoreLiquid   | Shopee     | ₱3,850.00   | Fits case clearance.                                  |
+| CPU Cooler      | MSI MAG CoreLiquid   | DataBlitz  | ₱2,195.00   | Fits case clearance.                                  |
 | Motherboard     | MSI Pro B650M-A WIFI | Datablitz  | ₱9,450.00   | Supports AMD Ryzen 7 9800X3D with BIOS v7D75vA3.      |
 |                 |                      |            |             | Update may be required.                               |
-| RAM             | Corsair Vengeance    | Datablitz  | ₱8,865.00   | DDR5-6000, 2x16 GB.                                   |
-|                 |                      |            |             | G.Skill or TeamGroup also compatible.                 |
-| Storage 1 (SSD) | MSI SPATIUM M480     | Bermorzone | ₱7,295.00   | Fully supported by motherboard’s PCIe 4.0 M.2 slots.  |
+| RAM             | G.Skill Flare X5     | DynaQuestPC| ₱6,275.00   | DDR5-6000, 32GB (2 x 16 GB) CL36                      |
+|                 |                      |            |             | TeamGroup also compatible.                            |
+| Storage 1 (SSD) | MSI SPATIUM M480     | Microless  | ₱6,176.33   | Fully supported by motherboard’s PCIe 4.0 M.2 slots.  |
 | Storage 2 (HDD) | Seagate BarraCuda    | EasyPC     | ₱2,060.00   | Additional bulk storage.                              |
-| GPU             | MSI VENTUS 2X PLUS   | Datablitz  | ₱29,795.00  | Good for 4K gaming.                                   |
+| GPU             | MSI SHADOW 3X OC     | Datablitz  | ₱39,895.00  | Good for 4K gaming. GeForce RTX 5070 12 GB            |
 |                 |                      |            |             | May struggle with very demanding titles.              |
 | PSU             | MSI MAG A750GL       | Datablitz  | ₱4,750.00   | Sufficient for CPU & GPU.                             |
 |                 |                      |            |             | 80+ Gold certified.                                   |
 | Case            | MSI MAG FORGE 321R   | Datablitz  | ₱3,675.00   | ATX Mid-Tower, good airflow.                          |
 | Case Fans       | Stock chassis fans   | —          | ₱0.00       | Included with case.                                   |
-| **Total**       |                      |            | **₱99,690.00** | Within budget.                                       |
+| **Total**       |                      |            | **₱104,426.33** | Within 105% of budget.                            |
 
 
 ---
@@ -78,15 +78,15 @@ For each part, explain compatibility and choices.
 Example:  
 - **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
 - **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
-- **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.  
+- **GPU**: 
 
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱100,000  
-- **Final Total**: ₱99,690
+- **Budget Limit**: ₱105,000 (105% of 100,000)
+- **Final Total**: ₱104,426.33
 - ✅ Within budget
-- Initially, we chose an 8GB GPU and added aftermarket Noctua case fans, which brought the build to ₱99k. However, since the tower already included four fans (3 front + 1 rear), we decided to use the stock fans instead. This gave room for the 16GB GPU variant, as further analysis showed that 8GB could potentially bottleneck the performance of the PC.
+- Initially, we chose an 8GB GPU and added two aftermarket Noctua case fans, which brought the build to ₱k. However, since the tower already included four fans (3 front + 1 rear), we decided to use the stock fans instead. This gave room for the 12GB GPU that we chose, as further analysis showed that the previous 8GB GPU we chose could potentially bottleneck the performance of the PC. 5070 will ensure smooth 4K gaming even in demanding games.
 
 ---
 
@@ -95,7 +95,7 @@ Reflections on:
 - Price differences (international vs. Manila vendors)
     Based on PC Part Picker, the total build is estimated to be lower when sourced internationally, around ₱10,000 less than Philippine-based parts. The prices from Philippine-based vendors are noticeably higher.
 - Challenges in finding stock or cheaper equivalents
-    Most of the top sites listed parts with higher prices. Some other candidate parts that possibly fit better in the build were also out of stock in most Philippine-based sites. TODO
+    Most of the credible PC parts sites listed parts with higher prices, and a lot of the "cheaper" listings were Shopee/Lazada stores with no reviews. There were also a few times we found a perfect part given its capabilities and budget, but it would be out of stock everywhere. When we finalized our build we were slightly over budget, so we had to go back and find cheaper equivalents for some parts. Luckily however we didn't require much trade-offs with the alternative parts we chose (CPU Cooler and RAM).
 - What the group learned about PC components and system design  TODO
 
 ---
