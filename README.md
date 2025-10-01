@@ -44,20 +44,27 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/JrpX8Q
 This build uses **locally available parts** from Manila vendors.
 Google spreadsheet link: https://docs.google.com/spreadsheets/d/1jBNYJR_c-P8ae-f79BO1IlZDnWz0AtMGTB1KosIecSo/edit?usp=sharing
 
-### Local Build Table TODO
-| Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
-|-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                  |
-| Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                    |
-| RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported              |
-| Storage 2 (HDD) | ...   | [PVillMan](link)   | ...         | SATA port supported                  |
-| GPU             | ...   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
-| PSU             | ...   | [PVillMan](link)   | ...         | 650W, 80+ Bronze                     |
-| Case            | ...   | [VillMan](link)    | ...         | ATX Mid-Tower                        |
-| Case Fans       | ...   | [VillMan](link)    | ...         | 120mm, 3-pin                         |
-| **Total**       |       |                    | **XXX Php** | Within budget                        |
+### Local Build Table
+| Component       | Model                | Vendor     | Price (Php) | Compatibility Notes                                   |
+|-----------------|----------------------|------------|-------------|-------------------------------------------------------|
+| CPU             | AMD Ryzen 7 9800X3D  | Datablitz  | ₱29,950.00  | Works with AM5 motherboards.                          |
+|                 |                      |            |             | Requires B650, X670, or newer chipset.                |
+|                 |                      |            |             | Best paired with DDR5 RAM.                            |
+| CPU Cooler      | MSI MAG CoreLiquid   | Shopee     | ₱3,850.00   | Fits case clearance.                                  |
+| Motherboard     | MSI Pro B650M-A WIFI | Datablitz  | ₱9,450.00   | Supports AMD Ryzen 7 9800X3D with BIOS v7D75vA3.      |
+|                 |                      |            |             | Update may be required.                               |
+| RAM             | Corsair Vengeance    | Datablitz  | ₱8,865.00   | DDR5-6000, 2x16 GB.                                   |
+|                 |                      |            |             | G.Skill or TeamGroup also compatible.                 |
+| Storage 1 (SSD) | MSI SPATIUM M480     | Bermorzone | ₱7,295.00   | Fully supported by motherboard’s PCIe 4.0 M.2 slots.  |
+| Storage 2 (HDD) | Seagate BarraCuda    | EasyPC     | ₱2,060.00   | Additional bulk storage.                              |
+| GPU             | MSI VENTUS 2X PLUS   | Datablitz  | ₱29,795.00  | Good for 4K gaming.                                   |
+|                 |                      |            |             | May struggle with very demanding titles.              |
+| PSU             | MSI MAG A750GL       | Datablitz  | ₱4,750.00   | Sufficient for CPU & GPU.                             |
+|                 |                      |            |             | 80+ Gold certified.                                   |
+| Case            | MSI MAG FORGE 321R   | Datablitz  | ₱3,675.00   | ATX Mid-Tower, good airflow.                          |
+| Case Fans       | Stock chassis fans   | —          | ₱0.00       | Included with case.                                   |
+| **Total**       |                      |            | **₱99,690.00** | Within budget.                                       |
+
 
 ---
 
