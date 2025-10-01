@@ -23,20 +23,24 @@ The build uses an MSI GeForce RTX 5060 Ti, a capable midrange GPU for smooth 144
 This build uses **PCPartPicker System Builder** for compatibility check. 
 PCPartPicker Permalink: https://pcpartpicker.com/list/JrpX8Q
 
-### Summary Table TODO
-| Component       | Model | Price (USD/Php) | Notes |
-|-----------------|-------|-----------------|-------|
-| CPU             | ...   | ...             | ...   |
-| CPU Cooler      | ...   | ...             | ...   |
-| Motherboard     | ...   | ...             | ...   |
-| RAM             | ...   | ...             | ...   |
-| Storage 1       | ...   | ...             | ...   |
-| Storage 2       | ...   | ...             | ...   |
-| Graphics Card   | ...   | ...             | ...   |
-| Power Supply    | ...   | ...             | ...   |
-| Case            | ...   | ...             | ...   |
-| Case Fans       | ...   | ...             | ...   |
-| **Total**       |       | **XXX USD/Php**     |       |
+### PCPartPicker Build Table
+| Component       | Model                | Vendor     | Price (USD) | Notes                                  |
+|-----------------|----------------------|------------|-------------|----------------------------------------|
+| CPU             | AMD Ryzen 7 9800X3D  | B&H        | $469.00     | 8-core, AM5 socket                     |
+| CPU Cooler      | MSI MAG CORELIQUID   | Amazon     | $79.98      | 360mm AIO, fits ATX mid-tower          |
+| Motherboard     | MSI PRO B650-A WIFI  | Newegg     | $149.99     | ATX, AM5, DDR5 support                 |
+| Memory          | Corsair Vengeance    | Amazon     | $122.99     | 32 GB (2x16), DDR5-6000 CL36           |
+| Storage (SSD)   | MSI SPATIUM M480 PRO | MSI        | $64.99      | 1 TB, PCIe 4.0 NVMe                    |
+| Storage (HDD)   | Seagate BarraCuda    | Amazon     | $55.59      | 1 TB, 7200 RPM                         |
+| Video Card      | MSI VENTUS 2X PLUS   | B&H        | $349.95     | RTX 5060 Ti, 8 GB GDDR7                |
+| Case            | MSI MAG FORGE 321R   | Newegg     | $84.99      | ATX Mid Tower, airflow design          |
+| Power Supply    | MSI MAG A750GL       | Amazon     | $96.00      | 750W, 80+ Gold, fully modular          |
+| Case Fan        | Noctua NF-A12x25 PWM | Amazon     | $37.95      | 120mm, high airflow                    |
+| Case Fan        | Noctua NF-A12x25 PWM | Amazon     | $37.95      | 120mm, high airflow                    |
+| **Total (before rebates)** |                      |            | **$1579.38** |                                        |
+| Mail-in Rebates |                      |            | -$30.00     |                                        |
+| **Final Total** |                      |            | **$1549.38** |                                        |
+
 
 ---
 
