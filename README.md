@@ -13,9 +13,9 @@ Briefly describe your project build (1–2 paragraphs).
 Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
 
 
-This PC build is centered on the AMD Ryzen 7 9800X3D, one of the fastest gaming CPUs available today. It delivers top frame rates by fully utilizing the GPU while staying efficient under load, running cooler and drawing less power than many alternatives. The goal of the system is straightforward: maximize gaming performance while keeping thermals and power use in check.
+This PC build is centered on the AMD Ryzen 7 9800X3D, one of the fastest gaming CPUs available today. It delivers top frame rates by fully utilizing the GPU while staying efficient under load, running cooler and drawing less power than many alternatives. The system is designed to maximize gaming performance while keeping thermals and power use in check, supported by the Deepcool AK400 Digital CPU cooler and stable airflow from the MSI MAG FORGE 321R AIRFLOW case with its stock fans.
 
-The build uses an MSI GeForce RTX 5060 Ti, a capable midrange GPU for smooth 1440p gaming and playable 4K in lighter titles. It is backed by 32 GB of DDR5-6000 memory, a fast 1 TB NVMe SSD for responsiveness, and a secondary 1 TB HDD for extra storage. Cooling comes from a 240 mm AIO and the case’s four stock fans, which ensures stable airflow. A 750 W gold-rated PSU provides reliable power with room for upgrades. The full build comes in under the ₱100,000 budget while targeting high-end 1440p performance and workable 4K in demanding games.
+The build pairs the CPU with an MSI GeForce RTX 5070 12 GB SHADOW 3X OC, offering high-end 1440p performance and playable 4K in demanding games. It includes 32 GB of DDR5-6000 memory, a 1 TB MSI SPATIUM M480 NVMe SSD for fast load times, and a 1 TB Seagate BarraCuda HDD for extra storage. A 750 W gold-rated PSU provides reliable power with headroom for future upgrades. The full system delivers premium gaming performance and responsiveness while staying just above ₱100,000 but not over 5% of the budget.
 
 ---
 
@@ -23,7 +23,7 @@ The build uses an MSI GeForce RTX 5060 Ti, a capable midrange GPU for smooth 144
 This build uses **PCPartPicker System Builder** for compatibility check. 
 PCPartPicker Permalink: https://pcpartpicker.com/list/JrpX8Q
 
-### PCPartPicker Build Table
+### PCPartPicker Build Table TODO
 | Component       | Model                | Vendor     | Price (USD) | Notes                                  |
 |-----------------|----------------------|------------|-------------|----------------------------------------|
 | CPU             | AMD Ryzen 7 9800X3D  | B&H        | $469.00     | 8-core, AM5 socket                     |
@@ -37,9 +37,9 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/JrpX8Q
 | Power Supply    | MSI MAG A750GL       | Amazon     | $96.00      | 750W, 80+ Gold, fully modular          |
 | Case Fan        | Noctua NF-A12x25 PWM | Amazon     | $37.95      | 120mm, high airflow                    |
 | Case Fan        | Noctua NF-A12x25 PWM | Amazon     | $37.95      | 120mm, high airflow                    |
-| **Total (before rebates)** |                      |            | **$1579.38** |                                        |
-| Mail-in Rebates |                      |            | -$30.00     |                                        |
-| **Final Total** |                      |            | **$1549.38** |                                        |
+| **Total (before rebates)** |                     |            | **$1651.28** |                           |
+| Mail-in Rebates |                      |            | -$10.00     |                                        |
+| **Final Total** |                      |            | **$1641.28** |                                        |
 
 
 ---
@@ -76,8 +76,8 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1jBNYJR_c-P8ae-f
 TODO
 For each part, explain compatibility and choices.  
 Example:  
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
-- **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
+- **CPU + Motherboard**: 
+- **RAM**: 
 - **GPU**: 
 
 ---
