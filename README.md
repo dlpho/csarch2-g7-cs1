@@ -84,7 +84,7 @@ Reflections on:
 - Price differences (international vs. Manila vendors)
     Based on PC Part Picker, the total build is estimated to be lower when sourced internationally, around ₱10,000 less than Philippine-based parts. The prices from Philippine-based vendors are noticeably higher.
 - Challenges in finding stock or cheaper equivalents
-    Most of the top sites listed parts with higher prices. Some other candidate parts that possibly fit better in the build were also out of stock in most Philippine-based sites.
+    Most of the top sites listed parts with higher prices. Some other candidate parts that possibly fit better in the build were also out of stock in most Philippine-based sites. TODO
 - What the group learned about PC components and system design  TODO
 
 ---
