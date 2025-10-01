@@ -23,7 +23,7 @@ The build uses an MSI GeForce RTX 5060 Ti, a capable midrange GPU for smooth 144
 This build uses **PCPartPicker System Builder** for compatibility check. 
 PCPartPicker Permalink: https://pcpartpicker.com/list/JrpX8Q
 
-### Summary Table 
+### Summary Table TODO
 | Component       | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
 | CPU             | ...   | ...             | ...   |
@@ -44,7 +44,7 @@ PCPartPicker Permalink: https://pcpartpicker.com/list/JrpX8Q
 This build uses **locally available parts** from Manila vendors.
 Google spreadsheet link: https://docs.google.com/spreadsheets/d/1jBNYJR_c-P8ae-f79BO1IlZDnWz0AtMGTB1KosIecSo/edit?usp=sharing
 
-### Local Build Table
+### Local Build Table TODO
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
 | CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M |
