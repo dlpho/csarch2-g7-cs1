@@ -3,7 +3,6 @@
 **Course**: CSARCH2  
 **Section**: S20  
 **Group Members**:  
-- ALONTO, AZZAM AFGHANI PARICO 
 - HO, DENISE LIANA PARANA 
 - PAJARILLO, JONAH PAOLO STA. ANA
 ---
