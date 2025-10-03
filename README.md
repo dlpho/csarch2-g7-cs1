@@ -8,11 +8,7 @@
 - PAJARILLO, JONAH PAOLO STA. ANA
 ---
 
-## 1. Introduction TODO
-Briefly describe your project build (1–2 paragraphs).  
-Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
-
-
+## 1. Introduction
 This PC build is centered on the AMD Ryzen 7 9800X3D, one of the fastest gaming CPUs available today. It delivers top frame rates by fully utilizing the GPU while staying efficient under load, running cooler and drawing less power than many alternatives. The system is designed to maximize gaming performance while keeping thermals and power use in check, supported by the Deepcool AK400 Digital CPU cooler and stable airflow from the MSI MAG FORGE 321R AIRFLOW case with its stock fans.
 
 The build pairs the CPU with an MSI GeForce RTX 5070 12 GB SHADOW 3X OC, offering high-end 1440p performance and playable 4K in demanding games. It includes 32 GB of DDR5-6000 memory, a 1 TB MSI SPATIUM M480 NVMe SSD for fast load times, and a 1 TB Seagate BarraCuda HDD for extra storage. A 750 W gold-rated PSU provides reliable power with headroom for future upgrades. The full system delivers premium gaming performance and responsiveness while staying just above ₱100,000 but not over 5% of the budget.
@@ -23,7 +19,7 @@ The build pairs the CPU with an MSI GeForce RTX 5070 12 GB SHADOW 3X OC, offerin
 This build uses **PCPartPicker System Builder** for compatibility check. 
 PCPartPicker Permalink: https://pcpartpicker.com/list/kz369C
 
-### PCPartPicker Build Table TODO
+### PCPartPicker Build Table
 | Component       | Model                | Vendor     | Price (USD) | Notes                                  |
 |-----------------|----------------------|------------|-------------|----------------------------------------|
 | CPU             | AMD Ryzen 7 9800X3D  | Amazon     | $476.99     | 8-core, AM5 socket                     |
@@ -69,12 +65,57 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1jBNYJR_c-P8ae-f
 ---
 
 ## 4. Compatibility Justification 
-TODO
-For each part, explain compatibility and choices.  
-Example:  
-- **CPU + Motherboard**: 
-- **RAM**: 
-- **GPU**: 
+
+## CPU + Motherboard
+- CPU: **AMD Ryzen 7 9800X3D**, AM5 socket  
+- Needs **B650 or X670 chipset** → chosen **MSI B650M-A WIFI**  
+- Supports DDR5 memory and PCIe 4.0  
+- BIOS update (v7D75vA3) may be required  
+
+## CPU Cooler
+- **Deepcool AK400 Digital**  
+- Fits case clearance properly  
+- Reliable air cooling for stable temps  
+- Digital display helps with monitoring  
+
+## RAM
+- **G.Skill Flare X5 DDR5-6000, 32GB (2x16GB)**  
+- DDR5-6000 is the sweet spot for Ryzen 7000 CPUs  
+- 32GB is enough for gaming + productivity  
+- Alternative: **TeamGroup DDR5 kits** also compatible  
+
+## Storage
+- **SSD: MSI Spatium M480, 1TB PCIe 4.0 NVMe**  
+  - Very fast boot, load, and transfer speeds  
+  - Fully supported by motherboard’s PCIe 4.0 M.2 slots  
+- **HDD: Seagate Barracuda 1TB**  
+  - Affordable bulk storage  
+  - Good for files, backups, and media  
+
+## GPU
+- **MSI Shadow 3X OC RTX 5070, 12GB**  
+- Excellent performance at **1440p**, good for **4K**  
+- Supports **ray tracing + DLSS**  
+- May struggle with ultra-demanding 4K titles  
+- Best choice within budget  
+
+## PSU
+- **MSI MAG A750GL, 750W, 80+ Gold**  
+- Enough power for CPU + GPU  
+- Gold certified → efficient and stable  
+- Leaves headroom for upgrades  
+
+## Case + Cooling
+- **MSI MAG Forge 321R (ATX Mid-Tower)**  
+- Compatible with motherboard, GPU, and cooler  
+- Good airflow + included stock fans  
+- Comes with RGB lighting for aesthetics  
+
+## Budget
+- **Total: ₱104,426.33**  
+- Within 105% of the target budget  
+- Parts sourced from **Datablitz, DynaQuestPC, EasyPC, Microless**  
+- Local vendors = warranty + support
 
 ---
 
