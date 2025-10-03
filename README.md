@@ -111,12 +111,6 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1jBNYJR_c-P8ae-f
 - Good airflow + included stock fans  
 - Comes with RGB lighting for aesthetics  
 
-## Budget
-- **Total: ₱104,426.33**  
-- Within 105% of the target budget  
-- Parts sourced from **Datablitz, DynaQuestPC, EasyPC, Microless**  
-- Local vendors = warranty + support
-
 ---
 
 ## 5. Budget Analysis
