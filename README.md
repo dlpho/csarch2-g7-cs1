@@ -121,16 +121,23 @@ Google spreadsheet link: https://docs.google.com/spreadsheets/d/1jBNYJR_c-P8ae-f
 ---
 
 ## 6. Conclusion & Learnings
-Reflections on:  
-- Price differences (international vs. Manila vendors)
-    Based on PC Part Picker, the total build is estimated to be lower when sourced internationally, around ₱10,000 less than Philippine-based parts. The prices from Philippine-based vendors are noticeably higher.
-- Challenges in finding stock or cheaper equivalents
-    Most of the credible PC parts sites listed parts with higher prices, and a lot of the "cheaper" listings were Shopee/Lazada stores with no reviews. There were also a few times we found a perfect part given its capabilities and budget, but it would be out of stock everywhere. When we finalized our build we were slightly over budget, so we had to go back and find cheaper equivalents for some parts. Luckily however we didn't require much trade-offs with the alternative parts we chose (CPU Cooler and RAM).
-- What the group learned about PC components and system design  TODO
+Price differences (international vs. Manila vendors)
+ 
+When comparing our build to the PC Part Picker international price estimates, we found that our total build would have been roughly ₱10,000 cheaper if sourced abroad. The difference comes from Philippine-based vendor markups, shipping fees, and import taxes. While buying locally offers the benefit of warranty support and faster fulfillment, the downside is that components are noticeably more expensive compared to international pricing.
+
+Challenges in finding stock or cheaper equivalents
+
+Another difficulty we encountered was the availability of parts. Most of the reputable local PC vendors had higher prices, while some of the cheaper listings on platforms like Shopee or Lazada either had no reviews or looked unreliable. There were times when we identified the perfect part that fit our budget and requirements, but it was out of stock everywhere. This forced us to make small adjustments: for example, we had to change our choice of CPU cooler and RAM to slightly cheaper alternatives. Fortunately, the performance trade-off was minimal, so the overall build quality was not compromised.
+
+What the group learned about PC components and system design
+
+Through this project, we learned the importance of balancing compatibility, performance, and budget. It became clear that every component decision affects the whole system. For example, the CPU determines the motherboard socket, which then dictates the type of RAM we can use. We also realized the value of future-proofing, such as choosing DDR5 memory and a motherboard that supports newer standards. Another important lesson was how critical power supply selection and cooling are, since they directly affect stability and longevity. Overall, we gained a better understanding of how each part works together as a system, and how to make practical compromises when faced with real-world limitations like pricing and availability.
+
+
 
 ---
 ## 7. Video pitch
-- Your video link here  TODO
+- https://youtu.be/odI1txOG_lU
 
 ## 8. References
 - Vendor links (PCX, VillMan, etc.)  
