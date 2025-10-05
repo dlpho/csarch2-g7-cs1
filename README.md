@@ -148,11 +148,11 @@ Through this project, we learned the importance of balancing compatibility, perf
     - Storage:
         - SSD: https://global.microless.com/product/msi-spatium-m480-1tb-pcie-4-0-nvme-m-2-internal-solid-state-drive-read-write-up-to-7000mbs-6850mb-s-3d-nand-flash-technology-e2e-data-protection-1400-tbw-black-s78-440l490-p83/
         - HDD: https://easypc.com.ph/products/seagate-1tb-st1000dm010-harddisk-drive?variant=39924189200555
-    - GPU: https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5060-ti-16gb-ventus-2x-oc-plus-gddr7-graphics-card
+    - GPU: https://ecommerce.datablitz.com.ph/collections/all/products/msi-geforce-rtx-5070-shadow-3x-oc-12gb-gddr7-graphics-card
     - PSU: https://ecommerce.datablitz.com.ph/products/msi-mag-a750gn-pcie5-750w-80-gold-non-modular-power-supply
     - Case: https://ecommerce.datablitz.com.ph/products/msi-mag-forge-320r-airflow-gaming-case
 - PCPartPicker build link 
-    - https://pcpartpicker.com/list/zMKWkf
+    - https://pcpartpicker.com/list/kz369C
 - Any technical documentation consulted
     - https://www.pcgamer.com/best-cpu-for-gaming/
     - https://www.msi.com/Graphics-Card/GeForce-RTX-5060-Ti-16G-VENTUS-2X-OC-PLUS
