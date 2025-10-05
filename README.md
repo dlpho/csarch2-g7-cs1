@@ -141,7 +141,16 @@ Through this project, we learned the importance of balancing compatibility, perf
 
 ## 8. References
 - Vendor links (PCX, VillMan, etc.)  
-    - TODO
+    - CPU: https://ecommerce.datablitz.com.ph/products/amd-ryzen-7-9800x3d-processor
+    - CPU Cooler: https://ecommerce.datablitz.com.ph/products/deepcool-ak400-digital-performance-cpu-cooler-with-a-status-display-r-ak400-bkadmn-g
+    - Motherboard: https://ecommerce.datablitz.com.ph/products/msi-pro-b650m-a-wifi-amd-motherboard
+    - Memory: https://dynaquestpc.com/products/g-skill-flare-x5-32gb-2x16gb-ddr5-6000mhz-cl36-36-36-96-1-35v-ram-desktop-memory-black-kit-of-2-f5-6000j3636f16gx2-fx5
+    - Storage:
+        - SSD: https://global.microless.com/product/msi-spatium-m480-1tb-pcie-4-0-nvme-m-2-internal-solid-state-drive-read-write-up-to-7000mbs-6850mb-s-3d-nand-flash-technology-e2e-data-protection-1400-tbw-black-s78-440l490-p83/
+        - HDD: https://easypc.com.ph/products/seagate-1tb-st1000dm010-harddisk-drive?variant=39924189200555
+    - GPU: https://ecommerce.datablitz.com.ph/products/msi-geforce-rtx-5060-ti-16gb-ventus-2x-oc-plus-gddr7-graphics-card
+    - PSU: https://ecommerce.datablitz.com.ph/products/msi-mag-a750gn-pcie5-750w-80-gold-non-modular-power-supply
+    - Case: https://ecommerce.datablitz.com.ph/products/msi-mag-forge-320r-airflow-gaming-case
 - PCPartPicker build link 
     - https://pcpartpicker.com/list/zMKWkf
 - Any technical documentation consulted
